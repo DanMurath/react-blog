@@ -1,0 +1,30 @@
+.create {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  label {
+    display: block;
+    margin: 14px 0;
+    text-align: left;
+    font-size: 20px;
+  }
+  input,
+  textarea,
+  select {
+    border: 1px solid #5e5e5e;
+    width: 100%;
+    font-size: 18px;
+    padding: 6px 10px;
+    border-radius: 7px;
+  }
+  /*button {
+    padding: 6px;
+    border: none;
+    border-radius: 7px;
+    background-color: #f1356d;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 8px;
+    font-size: 18px;
+  }*/
+}
